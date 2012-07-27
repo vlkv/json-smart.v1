@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/json-smart/src/main/json-smart.iml" filepath="$PROJECT_DIR$/json-smart/src/main/json-smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-smart-mini/src/main/json-smart-mini.iml" filepath="$PROJECT_DIR$/json-smart-mini/src/main/json-smart-mini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-smart-mini/src/test/json-smart-mini-tests.iml" filepath="$PROJECT_DIR$/json-smart-mini/src/test/json-smart-mini-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-smart/src/test/json-smart-tests.iml" filepath="$PROJECT_DIR$/json-smart/src/test/json-smart-tests.iml" />
+    </modules>
+  </component>
+</project>
+
