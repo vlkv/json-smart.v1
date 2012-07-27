@@ -16,7 +16,7 @@ package net.minidev.json;
  * limitations under the License.
  */
 import java.io.IOException;
-import java.util.HashMap;
+import java.util.TreeMap;
 import java.util.Map;
 
 /**
@@ -26,7 +26,7 @@ import java.util.Map;
  * @author FangYidong<fangyidong@yahoo.com.cn>
  * @author Uriel Chemouni <uchemouni@gmail.com>
  */
-public class JSONObject extends HashMap<String, Object> implements JSONAware, JSONAwareEx, JSONStreamAwareEx {
+public class JSONObject extends TreeMap<String, Object> implements JSONAware, JSONAwareEx, JSONStreamAwareEx {
 	private static final long serialVersionUID = -503443796854799292L;
 
 	public JSONObject() {
